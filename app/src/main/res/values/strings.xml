@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">HomeWork10</string>
+    <string name="save_note">Сохранить</string>
+    <string name="saved_data">Сохранить</string>
+    <string name="my_note">Мои записки</string>
+    <string name="start">\"старт: \"</string>
+    <string name="finish">\" окончаниe: \"</string>
+    <string name="error">Ошибка</string>
+    <string name="date_start">Дата-время старта задачи: \</string>
+    <string name="date_finish">Дата-время окончания задачи: \</string>
+    <string name="ok">OK</string>
+    <string name="notebook">Записная книжка</string>
+    <string name="tasks">Задачи</string>
+    <string name="countries_cities">Страны, города</string>
+    <string name="money">Деньги</string>
+    <string name="show_adress">Показать адрес</string>
+    <string name="money_input">Ввод денег</string>
+    <string name="pay_information">Информация об оплате</string>
+    <string name="bank_card">С банковской карты</string>
+    <string name="mobile_phone">С мобильного телефона</string>
+    <string name="cash">Наличными по адресу</string>
+    <string name="success">Оплата осуществлена.</string>
+    <string-array name="countries">
+        <item>Россия</item>
+        <item>Украина</item>
+        <item>Белоруссия</item>
+    </string-array>
+    <string-array name="r_cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+    </string-array>
+    <string-array name="u_cities">
+        <item>Киев</item>
+        <item>Одесса</item>
+        <item>Харьков</item>
+    </string-array>
+    <string-array name="b_cities">
+        <item>Минск</item>
+        <item>Гомель</item>
+        <item>Торжок</item>
+    </string-array>
+</resources>
